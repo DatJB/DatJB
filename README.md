@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Dat+JB....;Welcome+to+my+profile!&center=true&size=30">
+  </a>
+</h1>
 
-<!--
-**DatJB/DatJB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" title="LinkedIn Profile">👔 LinkedIn</a></code>
+  <code><a href="mailto:nguyendinhdat343@gmail.com" title="Email">📧 Email</a></code>
+  <code><a href="https://portfolio-black-sigma-hug3wcpjnt.vercel.app" title="Portfolio">🌐 Portfolio</a></code>
+</h5>
+<br>
 
-Here are some ideas to get you started:
+<p align="center">
+  Hi, I'm <b>Đạt</b>, an IT student & Full-Stack Developer from Vietnam 🇻🇳
+  <br>
+  <br>
+  🔬 I'm currently studying at <b>Posts and Telecommunications Institute of Technology (PTIT)</b>
+  <br>
+  💻 I love building end-to-end applications, designing system architectures, and exploring AI logic
+  <br>
+  ⚙️ Focused on secure web apps (React/Spring Boot), System Analysis & Design, and AI (Gemini API, CSP algorithms)
+  <br>
+  📫 How to reach me: <a href="mailto:YOUR_EMAIL@gmail.com">YOUR_EMAIL@gmail.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<h2 align="center">🔥 Tech Stack & Tools 🔥</h2>
+<br>
+<p align="center">
+  <!-- Hệ thống tự động render Icon đẹp mắt từ skillicons.dev -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,tailwind,git,github,vscode,linux" />
+  </a>
+</p>
+<hr>
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
+</p>
+
+<hr>
+
+<h2 align="center">👨‍💻 Top Projects 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1" title="Project 1">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2" title="Project 2">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
