@@ -4,27 +4,16 @@
   </a>
 </h1>
 
-<!-- <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/%C4%91%C3%ACnh-%C4%91%E1%BA%A1t-nguy%E1%BB%85n-8849ba287/" title="LinkedIn Profile">👔 LinkedIn</a></code>
+ <h5 align="center">
+  <!-- <code><a href="https://www.linkedin.com/in/%C4%91%C3%ACnh-%C4%91%E1%BA%A1t-nguy%E1%BB%85n-8849ba287/" title="LinkedIn Profile">👔 LinkedIn</a></code>
   <code><a href="mailto:nguyendinhdat343@gmail.com" title="Email">📧 Email</a></code>
-  <code><a href="https://portfolio-black-sigma-hug3wcpjnt.vercel.app" title="Portfolio">🌐 Portfolio</a></code>
-</h5> -->
-<p align="center">
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/%C4%91%C3%ACnh-%C4%91%E1%BA%A1t-nguy%E1%BB%85n-8849ba287/" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <!-- Email Badge -->
-  <a href="mailto:nguyendinhdat343@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp; 
-  <!-- Portfolio Badge (Dùng logo Vercel với màu xanh dương custom) -->
-  <a href="https://portfolio-black-sigma-hug3wcpjnt.vercel.app" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0d47a1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+  <code><a href="https://portfolio-black-sigma-hug3wcpjnt.vercel.app" title="Portfolio">🌐 Portfolio</a></code> -->
+   <code><a href="https://www.linkedin.com/in/%C4%91%C3%ACnh-%C4%91%E1%BA%A1t-nguy%E1%BB%85n-8849ba287/" title="LinkedIn Profile"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="14" style="vertical-align: text-bottom; margin-right: 2px;" alt="LinkedIn" /> LinkedIn</a></code>
+&nbsp;
+<code><a href="mailto:nguyendinhdat343@gmail.com" title="Email"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="14" style="vertical-align: text-bottom; margin-right: 2px;" alt="Email" /> Email</a></code>
+&nbsp;
+<code><a href="https://portfolio-black-sigma-hug3wcpjnt.vercel.app" title="Portfolio"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Globe_icon.svg" width="14" style="vertical-align: text-bottom; margin-right: 2px;" alt="Portfolio" /> Portfolio</a></code>
+</h5> 
 <br>
 
 <p align="center">
