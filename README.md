@@ -53,8 +53,11 @@
     <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DatJB&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
   </a>
 </div>
-
 <br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatJB&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
+</div>
 
 <h2 align="center">👨‍💻 Top Projects 👨‍💻</h2>
 <br>
