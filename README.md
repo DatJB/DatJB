@@ -29,7 +29,7 @@
 <p align="center">
   <!-- Hệ thống tự động render Icon đẹp mắt từ skillicons.dev -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,tailwind,git,github,vscode,linux,docker,python, mongo" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,tailwind,git,github,vscode,linux,docker,python,mongo" />
   </a>
 </p>
 <hr>
@@ -53,12 +53,14 @@
 
 <h2 align="center">👨‍💻 Top Projects 👨‍💻</h2>
 <br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/DatJB/soundbook-social-network" title="Project 1">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DatJB&repo=soundbook-social-network&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10">
+<p align="center">
+  <a href="https://github.com/DatJB/soundbook-social-network">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DatJB&repo=soundbook-social-network&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" alt="Soundbook" />
   </a>
-  <a align="right" href="https://github.com/DatJB/karaoke-management-system" title="Project 2">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=DatJB&repo=karaoke-management-system&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10">
+  &nbsp;
+  <a href="https://github.com/DatJB/karaoke-management-system">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=DatJB&repo=karaoke-management-system&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" alt="Karaoke System" />
   </a>
-</div>
+</p>
+<br/>
 <br/><br/><br/><br/><br/><br/>
