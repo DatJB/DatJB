@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Dat+JB....;Welcome+to+my+profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+DatJB...;Welcome+to+my+profile!&center=true&size=30">
   </a>
 </h1>
 
@@ -39,10 +39,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=DatJB&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+      <img align="left" width=390 src="https://github-readme-stats.shion.dev/api?username=DatJB&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DatJB&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+      <img align="right" width=390 src="https://github-readme-stats.shion.dev/api/top-langs/?username=DatJB&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
