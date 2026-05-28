@@ -17,14 +17,14 @@
 <br>
 
 <p align="center">
-  Hi, I'm <b>Đạt</b>, an IT student & Full-Stack Developer from Vietnam 🇻🇳
+  Hi, I'm <b>Đạt</b>, an IT student & Full-Stack Developer from Vietnam 🇻🇳.
   <br>
   <br>
-  🔬 I'm currently studying at <b>Posts and Telecommunications Institute of Technology (PTIT)</b>
+  🔬 I'm currently studying at <b>Posts and Telecommunications Institute of Technology (PTIT).</b>
   <br>
-  💻 I love building end-to-end applications, designing system architectures, and exploring AI logic
+  💻 I love building end-to-end applications, designing system architectures, and integrating AI solutions.
   <br>
-  ⚙️ Focused on secure web apps (React/Spring Boot), System Analysis & Design, and Database Architecture
+  ⚙️ Focused on secure web apps (React/Spring Boot), System Analysis & Design, and Database Architecture.
   <br>
 </p>
 
