@@ -5,7 +5,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" title="LinkedIn Profile">👔 LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/%C4%91%C3%ACnh-%C4%91%E1%BA%A1t-nguy%E1%BB%85n-8849ba287/" title="LinkedIn Profile">👔 LinkedIn</a></code>
   <code><a href="mailto:nguyendinhdat343@gmail.com" title="Email">📧 Email</a></code>
   <code><a href="https://portfolio-black-sigma-hug3wcpjnt.vercel.app" title="Portfolio">🌐 Portfolio</a></code>
 </h5>
