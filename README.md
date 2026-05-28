@@ -63,11 +63,11 @@
 <br>
 <p align="center">
   <a href="https://github.com/DatJB/soundbook-social-network">
-    <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=DatJB&repo=soundbook-social-network&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" alt="Soundbook" />
+    <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=DatJB&repo=soundbook-social-network&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10&v=1" alt="Soundbook" />
   </a>
   &nbsp;
   <a href="https://github.com/DatJB/karaoke-management-system">
-    <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=DatJB&repo=karaoke-management-system&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" alt="Karaoke System" />
+    <img width="48%" src="https://github-readme-stats.shion.dev/api/pin/?username=DatJB&repo=karaoke-management-system&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10&v=1" alt="Karaoke System" />
   </a>
 </p>
 <br/>
