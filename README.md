@@ -36,23 +36,25 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.shion.dev/api?username=DatJB&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="right" width=390 src="https://github-readme-stats.shion.dev/api/top-langs/?username=DatJB&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-    </a>
-  </div>
-  
-  <br clear="both" />
-  <br />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatJB&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" width="390" src="https://github-readme-stats.shion.dev/api?username=DatJB&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img align="right" width="390" src="https://streak-stats.demolab.com/?user=DatJB&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
+  </a>
+</div>
 
-<hr>
+<br clear="both" />
+<br />
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DatJB&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+  </a>
+</div>
+
+<br />
 
 <h2 align="center">👨‍💻 Top Projects 👨‍💻</h2>
 <br>
