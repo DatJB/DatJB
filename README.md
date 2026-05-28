@@ -10,9 +10,9 @@
   <code><a href="https://portfolio-black-sigma-hug3wcpjnt.vercel.app" title="Portfolio">🌐 Portfolio</a></code> -->
    <code><a href="https://www.linkedin.com/in/%C4%91%C3%ACnh-%C4%91%E1%BA%A1t-nguy%E1%BB%85n-8849ba287/" title="LinkedIn Profile"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="14" style="vertical-align: text-bottom; margin-right: 2px;" alt="LinkedIn" /> LinkedIn</a></code>
 &nbsp;
-<code><a href="mailto:nguyendinhdat343@gmail.com" title="Email"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="14" style="vertical-align: text-bottom; margin-right: 2px;" alt="Email" /> Email</a></code>
+<code><a href="https://mail.google.com/mail/?view=cm&fs=1&to=nguyendinhdat343@gmail.com" title="Email"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="14" style="vertical-align: text-bottom; margin-right: 2px;" alt="Email" /> Email</a></code>
 &nbsp;
-<code><a href="https://portfolio-black-sigma-hug3wcpjnt.vercel.app" title="Portfolio"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Globe_icon.svg" width="14" style="vertical-align: text-bottom; margin-right: 2px;" alt="Portfolio" /> Portfolio</a></code>
+<code><a href="https://portfolio-black-sigma-hug3wcpjnt.vercel.app" title="Portfolio"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Globe_icon.svg/20px-Globe_icon.svg.png" width="14" style="vertical-align: text-bottom; margin-right: 2px;" alt="Portfolio" /> Portfolio</a></code>
 </h5> 
 <br>
 
