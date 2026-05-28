@@ -29,7 +29,7 @@
 <p align="center">
   <!-- Hệ thống tự động render Icon đẹp mắt từ skillicons.dev -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,tailwind,git,github,vscode,linux,docker,python,mongo" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,mysql,tailwind,git,github,vscode,linux,docker,postman,python,mongo" />
   </a>
 </p>
 <hr>
