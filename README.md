@@ -45,8 +45,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" width="390" src="https://github-readme-stats.shion.dev/api?username=DatJB&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img align="right" width="390" src="https://streak-stats.demolab.com/?user=DatJB&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
+  <!-- <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img align="right" width="390" src="https://streak-stats.demolab.com/?user=DatJB&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" /> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DatJB&theme=react" alt="GitHub Streak" /></a>
   </a>
 </div>
 
