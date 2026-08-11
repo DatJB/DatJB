@@ -50,7 +50,7 @@
    <a href="https://git.io/streak-stats">
     <img
       align="right" height="160"
-      src="https://streak-stats.demolab.com/?user=DatJB&theme=react&hide_border=true"
+      src="https://streak-stats.demolab.com/?user=DatJB&theme=react&hide_border=true&bg_color=0d1117"
       alt="GitHub Streak"
     />
   </a>
