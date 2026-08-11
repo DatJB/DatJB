@@ -49,7 +49,7 @@
     <img align="right" width="390" src="https://streak-stats.demolab.com/?user=DatJB&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" /> -->
    <a href="https://git.io/streak-stats">
     <img
-      align="right" width="390"
+      align="right" width="390" height="200"
       src="https://streak-stats.demolab.com/?user=DatJB&theme=react&hide_border=true"
       alt="GitHub Streak"
     />
