@@ -67,7 +67,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DatJB&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph-seven-kohl.vercel.app/graph?username=DatJB&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph"/>
 </div>
 <br>
 
