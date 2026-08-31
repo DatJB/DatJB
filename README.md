@@ -24,7 +24,7 @@
   <br>
   💻 I love building end-to-end applications, designing system architectures, and integrating AI solutions.
   <br>
-  ⚙️ Focused on secure web apps (React/Spring Boot), System Analysis & Design, and Database Architecture.
+  ⚙️ Focused on secure web apps, System Analysis & Design, and Database Architecture.
   <br>
 </p>
 
